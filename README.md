@@ -16,13 +16,10 @@ Now, it's your turn to step into the boots of one of Robin's men. Can you outwit
   <img src="images/Screenshot.png" width="700"/>
 </p>
 
-<p align="center">
-  👉 [Click here to play the game](https://rashadul-islam-code.github.io/Hangman-s-Riddle-Tales-of-Sherwood/)
-</p>
 
-<p align="center">
-  👉 [Live Game Link](https://rashadul-islam-code.github.io/Hangman-s-Riddle-Tales-of-Sherwood/)
-</p>
+  👉 [Click Here to Play The Game](https://rashadul-islam-code.github.io/Hangman-s-Riddle-Tales-of-Sherwood/)
+
+
 
 ## 🎮 Features:
 
